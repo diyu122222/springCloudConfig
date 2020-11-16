@@ -1,1 +1,11 @@
-a:b:c:123
+a:
+  b: 8763
+
+e:
+  f:
+    g: service-hi
+
+c:
+  j:
+    o:
+      p: http://localhost:8761/eureka/
